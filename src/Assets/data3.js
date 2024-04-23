@@ -1,0 +1,42 @@
+export const data = [
+    {
+      question: " What is the fundamental unit of computing in quantum computing?",
+      option1: "Photon-bit ",
+      option2: "Qubit ",
+      option3: "Neutrino-node",
+      option4: "Gluon-qubit",
+      ans: 2,
+    },
+    {
+      question: "In computer science, what does the acronym  stand for?",
+      option1: " Domain Name System",
+      option2: "Digital Networking Service",
+      option3: "Dynamic Node Synchronization",
+      option4: "Data Naming Schema",
+      ans: 1,
+    },
+    {
+      question: "What is the name of the particle accelerator located at CERN that discovered the Higgs boson?",
+      option1: "Quantum Dynamics Accelerator (QDA)",
+      option2: "Subatomic Discovery Collider (SDC)",
+      option3: "Large Hadron Collider  (LHC)",
+      option4: "Particle Phenomenon Generator (PPG)",
+      ans: 3,
+    },
+    {
+      question: "What is the name of the first human-made satellite launched into space?",
+      option1: "CosmoSphere 1",
+      option2: "AstroProbe Alpha",
+      option3: "Sputnik 1",
+      option4: "StellarCraft 1",
+      ans: 3,
+    },
+    {
+      question: " In physics, what is the SI unit of electrical resistance?",
+      option1: "Current Resistance Index (CRI)",
+      option2: "Voltmeter (VLM)",
+      option3: "AmpereUnit (AU)",
+      option4: "Ohm (symbol: Ω)",
+      ans: 4,
+    },
+  ];
